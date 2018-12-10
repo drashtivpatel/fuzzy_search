@@ -16,7 +16,3 @@ Application has below endpoint:
 where, `input`=user input (word to be searched)
     
 Above API returns JSON Array up to 25 results based on ranking
-
-
-Application is hosted on `http://13.127.14.68:8000` for testing
-> Index page contains Simple UI with search box with hits above API to get results
