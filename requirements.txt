@@ -1,4 +1,4 @@
-Django==2.1.2
+Django==2.1.11
 django-after-response==0.2.2
 django-cors-headers==2.4.0
 elasticsearch==6.3.1
